@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\1D_array\1D_array\1D_array\bin\Debug\1D_array.exe.config
+C:\Users\USER\source\repos\1D_array\1D_array\1D_array\bin\Debug\1D_array.exe
+C:\Users\USER\source\repos\1D_array\1D_array\1D_array\bin\Debug\1D_array.pdb
+C:\Users\USER\source\repos\1D_array\1D_array\1D_array\obj\Debug\1D_array.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\1D_array\1D_array\1D_array\obj\Debug\1D_array.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\1D_array\1D_array\1D_array\obj\Debug\1D_array.exe
+C:\Users\USER\source\repos\1D_array\1D_array\1D_array\obj\Debug\1D_array.pdb
